@@ -1,4 +1,4 @@
-### Hello World 👋:earth_americas: 
+### Hello 👋
 
 I'm Francis Cheng, a recent graduate from New York Institute of Technology majoring in computer science with a concentration in big data.
 
